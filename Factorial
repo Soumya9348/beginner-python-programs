@@ -44,7 +44,7 @@ class Factorial:
         if number == 1:
             return number
 
-        return number * self.method_four(number - 1)
+        return number * self.type_four(number - 1)
 
 
 if __name__ == '__main__':
